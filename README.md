@@ -1,0 +1,1 @@
+A URL Shortener built using Node.js, utilizing `shortid.generate` to create unique short links. It maps long URLs to concise identifiers and handles redirection efficiently. Demonstrates server-side routing, unique ID generation, and lightweight data handling for scalable link management.
